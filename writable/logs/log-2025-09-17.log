@@ -178,3 +178,19 @@ in APPPATH\Controllers\PageController.php on line 12.
  5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
  6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
  7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+ERROR - 2025-09-17 06:25:05 --> mysqli_sql_exception: Table 'users' already exists in C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Database\MySQLi\Connection.php(327): mysqli->query('CREATE TABLE `u...', 0)
+#1 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Database\BaseConnection.php(729): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `u...')
+#2 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `u...')
+#3 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `u...')
+#4 C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Database\Migrations\2025-09-17-055254_CreateStudentTable.php(42): CodeIgniter\Database\Forge->createTable('users')
+#5 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Database\MigrationRunner.php(876): App\Database\Migrations\CreateStudentTable->up()
+#6 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Database\MigrationRunner.php(182): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\CLI\Commands.php(74): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\CLI\Console.php(47): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Boot.php(388): CodeIgniter\CLI\Console->run()
+#11 C:\Users\rahul\OneDrive\Desktop\codeigniter\system\Boot.php(133): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
+#12 C:\Users\rahul\OneDrive\Desktop\codeigniter\spark(87): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
+#13 {main}
