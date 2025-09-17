@@ -7,4 +7,5 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'Home::index');
 $routes->get('index', 'StudentController::index');
-$routes->post('pos', 'StudentController::post');
+$routes->get('student', 'StudentController::addStudent');
+$routes->get('updatestudent', 'StudentController::updateStudent');

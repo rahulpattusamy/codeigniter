@@ -4,20 +4,29 @@ namespace App\Controllers;
 
 use App\Controllers\BaseController;
 use CodeIgniter\HTTP\ResponseInterface;
-
+use App\Models\StudentModel;
 class StudentController extends BaseController
 {
-    public function index()
-    {
-    echo "<h1>This is get request method</h1>";
+
+  private $studentModelobject;
+
+    public function __construct(){
+      $this->studentModelobject = new StudentModel;
     }
-     public function post()
-    {
-    echo "<h1>This is post request method</h1>";
+    public function addStudent(){
+       $data = ["username"=>"kaif",
+       "email"=>"kaif@gmail.com",
+       "password"=>"kaif123"];
+       $this->studentModelobject->insert($data);
+
+       echo"<h1>student created succesfully</h1>";
     }
-      public function put()
-    {
-    echo "<h1>This is put request method</h1>";
-    
-}
+    public function updateStudent(){
+         $data = [
+       "email"=>"kaif25@gmail.com",
+       "password"=>"kaif1234"];
+              $this->studentModelobject->update(3,$data);
+
+    }
+
 }
