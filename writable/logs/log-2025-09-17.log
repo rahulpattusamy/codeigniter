@@ -1,0 +1,110 @@
+CRITICAL - 2025-09-17 02:38:43 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:38:44 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:39:34 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:40:16 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:40:17 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:40:17 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:40:18 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:41:16 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:41:17 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:41:21 --> TypeError: view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\rahul\OneDrive\Desktop\codeigniter\app\Controllers\PageController.php on line 14
+[Method: GET, Route: page/1]
+in SYSTEMPATH\Common.php on line 1155.
+ 1 APPPATH\Controllers\PageController.php(14): view('first_message', '1')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index('1')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
