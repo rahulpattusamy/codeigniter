@@ -7,9 +7,11 @@ use CodeIgniter\HTTP\ResponseInterface;
 
 class PageController extends BaseController
 {
-    public function index($num)
-
+    public function index()
     {
-    echo "<h1>This is the number: $num</h1>";
+     $userid = $this->request->getvar("id");
+     $username = $this->request->getvar("name");
+
+    echo "<h1>The user id is $userid  username is $username</h1>";
     }
 }

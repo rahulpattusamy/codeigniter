@@ -108,3 +108,73 @@ in SYSTEMPATH\Common.php on line 1155.
  6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
  7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
  8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:55:16 --> Error: Undefined constant "App\Controllers\id"
+[Method: GET, Route: page]
+in APPPATH\Controllers\PageController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:55:17 --> Error: Undefined constant "App\Controllers\id"
+[Method: GET, Route: page]
+in APPPATH\Controllers\PageController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:55:29 --> Error: Undefined constant "App\Controllers\id"
+[Method: GET, Route: page]
+in APPPATH\Controllers\PageController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:55:30 --> Error: Undefined constant "App\Controllers\id"
+[Method: GET, Route: page]
+in APPPATH\Controllers\PageController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:55:31 --> Error: Undefined constant "App\Controllers\id"
+[Method: GET, Route: page]
+in APPPATH\Controllers\PageController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:55:31 --> Error: Undefined constant "App\Controllers\id"
+[Method: GET, Route: page]
+in APPPATH\Controllers\PageController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
+CRITICAL - 2025-09-17 02:55:31 --> Error: Undefined constant "App\Controllers\id"
+[Method: GET, Route: page]
+in APPPATH\Controllers\PageController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\PageController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PageController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\rahul\\OneDrive\\Desktop\\codeigniter\\public\\index.php')
