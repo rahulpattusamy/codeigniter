@@ -39,7 +39,7 @@ class CreateStudentTable extends Migration
         ]);
 
         $this->forge->addKey('id', true); 
-        $this->forge->createTable('users');
+        $this->forge->createTable('student');
     }
 
     public function down()
